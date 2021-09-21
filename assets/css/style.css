@@ -76,8 +76,8 @@ h1, h2, h3, h4, h5, h6 {
 #header .profile img {
   margin: 15px auto;
   display: block;
-  width: 120px;
-  border: 8px solid #2c2f3f;
+  width: 70px;
+
 }
 #header .profile h1 {
   font-size: 24px;
@@ -221,7 +221,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: black;
 }
 #hero p {
   color: #fff;
